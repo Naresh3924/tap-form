@@ -1,0 +1,57 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.tabs {
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.tab-body {
+  margin: 5px;
+  border: 1px solid black;
+  padding: 5px;
+  cursor: pointer;
+}
+.profile-body {
+  padding: 5px;
+  margin: 5px;
+}
+.age {
+  margin: 5px;
+  padding: 5px;
+}
+.email {
+  margin: 5px;
+  padding: 5px;
+}
+.name {
+  margin: 5px;
+  padding: 5px;
+}
+.instrest-body {
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+}
+.tab-component {
+  border: 1px solid black;
+  height: 300px;
+  margin: 5px;
+  padding: 5px;
+}
+.page {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+.btn {
+  margin: 5px;
+  padding: 5px;
+}
+.error {
+  font-size: small;
+  color: red;
+  display: flex;
+}
